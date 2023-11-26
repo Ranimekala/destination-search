@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.destination-list {
+  width: 20px;
+}
+.image {
+  width: 200px;
+  height: 100px;
+}
+.name {
+  font-weight: 500;
+}
